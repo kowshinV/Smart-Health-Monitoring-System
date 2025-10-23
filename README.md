@@ -26,7 +26,7 @@ It continuously measures these parameters and displays them on an LCD screen, he
 ## 📁 Project Files
 | File Name | Description | Link |
 |------------|--------------|------|
-| **Smart_Health_Monitoring_System.pdf** | Complete report with circuit diagram and Arduino code | [View Project Report](./Kowshin's project on Smart Health Monitoring System.docx) |
+| **Smart_Health_Monitoring_System.pdf** | Complete report with circuit diagram and Arduino code |[View Project Report](./Kowshin%E2%80%99s%20Project%20on%20Smart%20Health%20Monitoring%20System.docx) |
 
 ---
 
