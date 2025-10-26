@@ -39,6 +39,9 @@ It continuously measures these parameters and displays them on an LCD screen, he
 
 ---
 
+Project Files
+ **Project Report For Smart Health Monitoring System [View project]
+
 ## 👨‍💻 Author
 **Kowshin V S**  
 Mini Project – *Smart Health Monitoring System*  
