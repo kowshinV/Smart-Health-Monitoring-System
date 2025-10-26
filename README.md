@@ -39,8 +39,9 @@ It continuously measures these parameters and displays them on an LCD screen, he
 
 ---
 
-Project Files
- **Project Report For Smart Health Monitoring System [View project](./Kowshin_project_on_Smart_Health_Monitoring_System.docx.pdf)
+| File Name                                | Description                                            | Link                                                |
+| ---------------------------------------- | ------------------------------------------------------ | --------------------------------------------------- |
+| **`Smart_Health_Monitoring_System Report.pdf`** | Full project report including circuit diagram and code | [View Report](./Kowshin_project_on_Smart_Health_Monitoring_System.docx.pdf)
 
 ## 👨‍💻 Author
 **Kowshin V S**  
