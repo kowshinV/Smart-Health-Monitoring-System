@@ -23,13 +23,6 @@ It continuously measures these parameters and displays them on an LCD screen, he
 
 ---
 
-## 📁 Project Files
-| File Name | Description | Link |
-|------------|--------------|------|
-| **Smart_Health_Monitoring_System.pdf** | Complete report with circuit diagram and Arduino code |[View Project Report](./Kowshin_project_on_Smart_Health_Monitoring_System.docx) |
-
----
-
 ## 🧠 Features
 - Real-time temperature and heart rate display  
 - Low-cost and portable design  
